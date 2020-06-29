@@ -12,4 +12,4 @@ This project streams the files added in the Dataset folder and analyzes them usi
     2.run->  YOUR SPARKPATH/bin/spark-submit
       \ --class "SimpleProject"
       \ --master local[*]
-      \ target/simpleproject_2.12-0.1.0-SNAPSHOT.jar
+      \ target/streaming_2.12-0.1.0-SNAPSHOT.jar
