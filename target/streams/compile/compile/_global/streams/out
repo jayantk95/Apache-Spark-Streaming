@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/hduser/Streaming/src/main/scala/structuredStreaming.scala:19:92: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m	val outDF = spark.sql(sqlText = " Select IP,Time,status from SDF where URL = "GET /details.php?id=44 HTTP/1.1"")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
